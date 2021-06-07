@@ -31,9 +31,9 @@ public class APP {
             System.exit(-1);
         }
 
-        //int USERMonth = Integer.parseInt(MonthString);
+
         double TaxRate = 0;
-        //String OutputString  =  "" ;
+
         int Max = FirstNUM;
         if (SecondNum > Max)
         {
